@@ -1,0 +1,5 @@
+﻿  Interpreter.cpp
+c:\users\irvine\documents\minijvm\minijvm\interpreter.cpp(315): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  miniJVM.cpp
+  Generating Code...
+  miniJVM.vcxproj -> C:\Users\Irvine\Documents\miniJVM\x64\Debug\miniJVM.exe
